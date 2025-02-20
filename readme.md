@@ -1,1 +1,1 @@
-Welcome to Salesforce Hub
+Welcome Salesforce Hub
